@@ -1,3 +1,7 @@
-# credit-card-fraud-detection
+# Credit card fraud detection
 
-Dataset -> https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+## Stack 
+Python 
+
+## Dataset 
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
